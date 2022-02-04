@@ -1,6 +1,6 @@
 import functions
 
-# lists file paths with serached string
+# lists file paths with searched string
 
 search_text = input('What text are are looking for? ')
 
